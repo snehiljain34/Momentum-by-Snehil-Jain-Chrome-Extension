@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Momentum by Snehil Jain",
+    "version": "1.0",
+    "description": "Momentum Extension by Snehil Jain",
+
+    "browser_action": {
+        "default_icon": "smile.png"
+    },
+    "icons": {
+        "16": "smile.png"
+    },
+
+    "chrome_url_overrides": {
+        "newtab": "momentum.html"
+    },
+
+    "permissions": [
+        "activeTab",
+        "https://ajax.googleapis.com/",
+        "geolocation"
+    ]
+}
