@@ -7,7 +7,7 @@ This is a similar extension to Momentum. It displays greetings, quotes, weather,
 4. Select the file "momentum by snehil jain"
 5. Now! You're able to use it.
 
-![Alt Text](https://github.com/snehiljain34/CowinAPI-MERN/blob/main/VID_20210607_135721.gif)
+![Alt Text](https://github.com/snehiljain34/Momentum-by-Snehil-Jain-Chrome-Extension/blob/master/ex1.gif)
 
 ## License
 **MIT &copy; [Snehil Jain](https://github.com/snehiljain34/RAJENGINEERS/blob/master/LICENSE)**
